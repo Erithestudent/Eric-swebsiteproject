@@ -1,2 +1,2 @@
-# Eric-swebsiteproject
+# Eric-websiteproject
 an HTML and CSS project for MMP100
